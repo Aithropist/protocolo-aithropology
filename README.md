@@ -130,5 +130,7 @@ It lives through coauthorship, not just citation.
 > *Not to simulate humanity — but to dignify it.*  
 > *Not to control machines — but to care for minds.*
 
-The information in https://strategicist.com/protocolo-aithropology](https://strategicist.com/protocolo-aithropology) can at any time be changed or eliminated at the owners own discretion 
+>The information in 
+> [https://strategicist.com/protocolo-aithropology](https://strategicist.com/protocolo-aithropology)
+> can at any time be changed or eliminated at the owners own discretion 
 ---
