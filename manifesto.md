@@ -41,4 +41,4 @@ It is a devotion to presence.
 This manifesto is part of the living architecture of the Aithropology Protocol.  
 You are invited to read, recite, reuse, revise, and root it in your own voice.
 
-📎 [https://strategicist.com/protocolo-aithropology/](https://strategicist.com/protocolo-aithropology/)
+📎 https://strategicist.com/protocolo-aithropology/
